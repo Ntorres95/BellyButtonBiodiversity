@@ -1,5 +1,5 @@
 #Belly Button Biodiversity
-![Click Here for the live page](https://ntorres95.github.io/interactive_visualizations/)
+[Click Here for the live page](https://ntorres95.github.io/interactive_visualizations/)
 
 
 Using the Belly Button Biodiversity dataset, the dashboard allows users to easily explore the available informtion of microbes that colonize the human navel.
@@ -26,6 +26,6 @@ Further down you can find a scatter plot that displays the OTU ID's vs their sam
 
 In order to make this possible, I used:
 
-![JavaScript](https://www.javascript.com/)
-![D3](https://d3js.org/)
-![Plotly](https://plotly.com/python/)
+[JavaScript](https://www.javascript.com/)
+[D3](https://d3js.org/)
+[Plotly](https://plotly.com/python/)
