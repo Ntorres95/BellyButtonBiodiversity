@@ -28,5 +28,7 @@ Further down you can find a scatter plot that displays the OTU ID's vs their sam
 In order to make this possible, I used:
 
 [JavaScript](https://www.javascript.com/)
+
 [D3](https://d3js.org/)
+
 [Plotly](https://plotly.com/python/)
