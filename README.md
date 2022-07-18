@@ -21,11 +21,11 @@ The graphs then give a general breakdown of the different types of microbes foun
 
 ![fourth](images/fourth.png)
 
-Further down you can find a scatter plot that displays the OTU ID's vs their sample_values. The size is refelctive of their values while the color represents their id number. Hovering over a point provides additional information, including the sample_value as well as the specific names of the bacteria found within that individual.
+Further down you can find a scatter plot that displays the OTU ID's vs their `sample_values`. The size is refelctive of their values while the color represents their id number. Hovering over a point provides additional information, including the `sample_values` as well as the specific names of the bacteria found within that individual.
 
 #Neccessary Tools
 
-In order to make this possible, I used:
+In order to make this possible, I use:
 
 [JavaScript](https://www.javascript.com/)
 
